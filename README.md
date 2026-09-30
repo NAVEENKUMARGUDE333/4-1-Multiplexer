@@ -1,3 +1,4 @@
+<img width="1224" height="690" alt="WhatsApp Image 2026-06-09 at 11 28 26 AM" src="https://github.com/user-attachments/assets/3b69425f-6992-4bcd-8b13-15354972676f" />
 # 4-to-1 Multiplexer using Verilog HDL
 
 ## 📌 Project Overview
