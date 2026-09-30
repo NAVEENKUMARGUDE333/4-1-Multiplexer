@@ -55,8 +55,7 @@ This project implements a **4-to-1 Multiplexer (MUX)** using Verilog HDL. The de
 ## 🛠️ Tools Used
 
 - Verilog HDL
-- EDA Playground / ModelSim / Vivado
-- Digital Logic Design
+- Vivado
 
 ## 🎯 Learning Outcome
 
