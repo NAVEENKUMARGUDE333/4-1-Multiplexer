@@ -36,23 +36,21 @@ This project implements a **4-to-1 Multiplexer (MUX)** using Verilog HDL. The de
 ## 💻 Verilog Code
 
 ### Behavioral Modeling
-<!-- Add screenshot here -->
-![Behavioral Model](images/behavioral.png)
+
+<img width="1224" height="690" alt="WhatsApp Image 2026-06-09 at 11 28 26 AM" src="https://github.com/user-attachments/assets/1041113d-b0d0-48c9-9d7b-6023f80ac087" />
 
 ### Data Flow Modeling
-<!-- Add screenshot here -->
-![Data Flow Model](images/dataflow.png)
+<img width="1221" height="680" alt="WhatsApp Image 2026-06-09 at 11 28 26 AM (4)" src="https://github.com/user-attachments/assets/c9a75340-be37-45a1-8821-e82cf722923d" />
+
 
 ### Gate-Level Modeling
-<!-- Add screenshot here -->
-![Gate Level Model]( )
-<img width="1224" height="690" alt="WhatsApp Image 2026-06-09 at 11 28 26 AM" src="https://github.com/user-attachments/assets/1041113d-b0d0-48c9-9d7b-6023f80ac087" />
+<img width="1216" height="683" alt="WhatsApp Image 2026-06-09 at 11 28 26 AM (2)" src="https://github.com/user-attachments/assets/a4c9ed1d-cac5-49cb-81c6-3fb89a3656b5" />
+
 
 
 ## 📊 Simulation / Waveform
+<img width="1214" height="720" alt="WhatsApp Image 2026-06-09 at 11 28 26 AM (3)" src="https://github.com/user-attachments/assets/669dac51-a497-4f8d-8a35-2efe12f0bd9f" />
 
-<!-- Add your simulation waveform here -->
-![Simulation Waveform](images/waveform.png)
 
 ## 🛠️ Tools Used
 
