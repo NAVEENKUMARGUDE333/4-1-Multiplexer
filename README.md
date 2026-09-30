@@ -45,8 +45,9 @@ This project implements a **4-to-1 Multiplexer (MUX)** using Verilog HDL. The de
 
 ### Gate-Level Modeling
 <!-- Add screenshot here -->
-![Gate Level Model]( <img width="1224" height="690" alt="WhatsApp Image 2026-06-09 at 11 28 26 AM" src="https://github.com/user-attachments/assets/22596d55-25e6-4006-a7d3-07f438706881" />
-)
+![Gate Level Model]( )
+<img width="1224" height="690" alt="WhatsApp Image 2026-06-09 at 11 28 26 AM" src="https://github.com/user-attachments/assets/1041113d-b0d0-48c9-9d7b-6023f80ac087" />
+
 
 ## 📊 Simulation / Waveform
 
