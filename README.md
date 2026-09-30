@@ -27,7 +27,7 @@ This project implements a **4-to-1 Multiplexer (MUX)** using Verilog HDL. The de
 | 1  | 0  | I2 |
 | 1  | 1  | I3 |
 
-## 📐 Circuit Diagram
+## 📐 Block Diagram
 
 ### 4-to-1 MUX
 <img width="1774" height="887" alt="ChatGPT Image Sep 30, 2026, 03_41_15 PM" src="https://github.com/user-attachments/assets/9c7f6903-879c-4a7d-ba54-e85552e2c1ce" />
