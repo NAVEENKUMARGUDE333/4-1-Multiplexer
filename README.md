@@ -45,7 +45,8 @@ This project implements a **4-to-1 Multiplexer (MUX)** using Verilog HDL. The de
 
 ### Gate-Level Modeling
 <!-- Add screenshot here -->
-![Gate Level Model](images/gatelevel.png)
+![Gate Level Model](<img width="1224" height="690" alt="WhatsApp Image 2026-06-09 at 11 28 26 AM" src="https://github.com/user-attachments/assets/8aa4fb99-7a3c-4fb1-a0c4-9e9768f01c8a" />
+)
 
 ## 📊 Simulation / Waveform
 
@@ -62,6 +63,3 @@ This project implements a **4-to-1 Multiplexer (MUX)** using Verilog HDL. The de
 
 This project demonstrates the implementation of a **4-to-1 Multiplexer** using different Verilog modeling techniques and provides practical understanding of **combinational logic and RTL design**.
 
-## 👨‍💻 Author
-
-**Naveen Kumar Gude**
