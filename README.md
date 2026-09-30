@@ -1,4 +1,3 @@
-<img width="1224" height="690" alt="WhatsApp Image 2026-06-09 at 11 28 26 AM" src="https://github.com/user-attachments/assets/3b69425f-6992-4bcd-8b13-15354972676f" />
 # 4-to-1 Multiplexer using Verilog HDL
 
 ## 📌 Project Overview
@@ -46,7 +45,7 @@ This project implements a **4-to-1 Multiplexer (MUX)** using Verilog HDL. The de
 
 ### Gate-Level Modeling
 <!-- Add screenshot here -->
-![Gate Level Model](<img width="1224" height="690" alt="WhatsApp Image 2026-06-09 at 11 28 26 AM" src="https://github.com/user-attachments/assets/8aa4fb99-7a3c-4fb1-a0c4-9e9768f01c8a" />
+![Gate Level Model]( <img width="1224" height="690" alt="WhatsApp Image 2026-06-09 at 11 28 26 AM" src="https://github.com/user-attachments/assets/22596d55-25e6-4006-a7d3-07f438706881" />
 )
 
 ## 📊 Simulation / Waveform
